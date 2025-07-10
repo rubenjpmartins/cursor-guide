@@ -10,7 +10,7 @@ Disallow: /cgi-bin/
 Disallow: /*.log$
 Disallow: /private/
 
-Sitemap: https://cursorguide.rubenmartins.io/sitemap.xml
+Sitemap: https://rubenmartins.io/cursor-guide/sitemap.xml
 
 # Crawl-delay for responsible crawling
 Crawl-delay: 1 

@@ -143,7 +143,7 @@
 ---
 
 **Implementation Date**: January 6, 2025
-**Production URL**: https://cursorguide.rubenmartins.io/
+**Production URL**: https://rubenmartins.io/cursor-guide
 **Expected SEO Impact**: 300-500% improvement in organic visibility
 **Target Keywords**: 15+ high-value Cursor AI related terms
 **Structured Data Types**: 4 different schema types implemented 
